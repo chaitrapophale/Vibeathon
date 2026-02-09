@@ -1,4 +1,4 @@
-# 🧠 Care Companion App (MindKeeper)
+# 🧠 Care Companion App 
 
 Care Companion is a mobile application designed to support elderly users and patients—especially those with memory-related conditions—by helping them manage medications, daily schedules, memory games, photos, and emergency contacts in one simple and accessible interface.
 
