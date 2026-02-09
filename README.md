@@ -84,7 +84,6 @@ Bottom navigation tabs:
 - Node.js (v16+)
 - npm or yarn
 - Git
-- Android Studio / Xcode (for emulator)
 
 ### Clone Repository
 ```bash
