@@ -70,14 +70,6 @@ Bottom navigation tabs:
 
 ---
 
-## 🛠️ Tech Stack
-- Frontend: React Native
-- Backend: Firebase / Node.js
-- Database: Firestore
-- Authentication: Firebase Auth
-
----
-
 ## ⚙️ Installation & Setup
 
 ### Prerequisites
