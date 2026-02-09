@@ -67,7 +67,7 @@ export function ContactsPage() {
 
   return (
     <div className="space-y-4 pb-4">
-      {/* Emergency 911 */}
+      {/* Emergency 112 */}
       <Card className="p-6 bg-gradient-to-r from-red-500 to-red-600 text-white shadow-lg border-4 border-red-700">
         <div className="text-center">
           <AlertCircle className="w-16 h-16 mx-auto mb-3" />
@@ -77,7 +77,7 @@ export function ContactsPage() {
             className="w-full bg-white text-red-600 hover:bg-gray-100 py-8 text-2xl font-bold shadow-lg"
           >
             <Phone className="w-8 h-8 mr-3" />
-            Call 911
+            Call 112
           </Button>
         </div>
       </Card>
