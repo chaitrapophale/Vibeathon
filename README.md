@@ -88,5 +88,5 @@ Bottom navigation tabs:
 
 ### Clone Repository
 ```bash
-git clone https://github.com/yasharma22/CareCompanion.git
+git clone https://github.com/chaitrapophale/Vibeathon.git
 cd CareCompanion
